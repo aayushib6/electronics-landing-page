@@ -470,7 +470,7 @@ nav ul li a {
     position: relative;
 }
 
-.search-bar input {
+.search-footer .search-bar input {
     min-width: 850px;
     max-width: 0;
 }
